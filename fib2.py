@@ -3,6 +3,6 @@ def fibunacci(n):
         return n
     return fibunacci(n-1)+fibunacci(n-2)
 
-fibunacci(1000) 
+fibunacci(10001) 
 
     
